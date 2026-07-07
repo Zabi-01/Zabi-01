@@ -9,8 +9,8 @@
 ### Zabih Ullah — SOC Analyst (in progress) · Cloud Security
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;currently%3A+THM+SEC1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=606060&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;currently%3A+THM+SEC1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;SEC1+completed;currently%3A+SOC+L1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=606060&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;SEC1+completed;currently%3A+SOC+L1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
 </picture>
 
 <br/>
@@ -28,7 +28,8 @@
 
 - 🎓 BS Cybersecurity, COMSATS University Islamabad
 - 🎯 Building toward SOC Analyst / Cloud Security
-- 📡 Currently working through **SEC1** on TryHackMe
+- ✅ Completed **SEC1** (Security Engineer Level 1) on TryHackMe
+- 📡 Currently enrolled in **SOC L1** on TryHackMe
 - 🏅 Top **2%** ranked on TryHackMe
 - 🚩 CTF player — team [**th3_0B$3$$3D**](https://ctftime.org/team/411257) (CTFtime)
 - 🧩 Dev background (JS/TS, Java) — carried into RBAC/JWT/auth work
@@ -40,7 +41,8 @@
 | Cert | Provider | Date |
 |---|---|---|
 | Google Cybersecurity Professional Certificate | Google / Coursera | Dec 2025 |
-| SEC1 — Security Engineer Level 1 | TryHackMe | In progress |
+| SEC1 — Security Engineer Level 1 | TryHackMe | Completed |
+| SOC L1 | TryHackMe | In progress |
 | Cyber Security 101 | TryHackMe | Mar 2026 |
 
 <br/>
