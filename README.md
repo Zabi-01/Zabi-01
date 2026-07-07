@@ -1,24 +1,22 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=180&section=header&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e6f1ff,100:a8b9d9&height=180&section=header&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=180&section=header&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:112240&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=ccd6f6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e6f1ff,50:cddafc,100:a8b9d9&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=0a192f&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=112240" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:112240&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=ccd6f6" width="100%"/>
 </picture>
 
-### 🛡️ Defensive Security Engineer (SOC L1) &nbsp;·&nbsp; ☁️ Cloud Security
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=700&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=700&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
 </picture>
 
 <br/>
 
-<a href="https://zabihullah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
-<a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
-<a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
-<a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
+<a href="https://zabihullah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-64FFDA?style=for-the-badge&logo=vercel&logoColor=0a192f&labelColor=0a192f" /></a>
+<a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
+<a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
+<a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a192f" /></a>
 
 </div>
 
@@ -47,53 +45,65 @@
 
 <br/>
 
-## 🧰 Tech Stack
-
-**☁️ Cloud Platforms**
-
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-0a192f?style=flat-square&logo=amazonaws&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Azure-0a192f?style=flat-square&logo=microsoftazure&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Google_Cloud-0a192f?style=flat-square&logo=googlecloud&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Docker-0a192f?style=flat-square&logo=docker&logoColor=ccd6f6" />
-</div>
+## 🧰 Current Tech Stack
 
 **🛰️ SIEM & Security Tools**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Splunk-0a192f?style=flat-square&logo=splunk&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0a192f?style=flat-square&logo=microsoftazure&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Wireshark-0a192f?style=flat-square&logo=wireshark&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Kali_Linux-0a192f?style=flat-square&logo=kalilinux&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/OWASP-0a192f?style=flat-square&logo=owasp&logoColor=ccd6f6" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=64FFDA" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FF0000" />
 </div>
 
 **💻 Languages & Scripting**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-0a192f?style=flat-square&logo=python&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Bash-0a192f?style=flat-square&logo=gnubash&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/PowerShell-0a192f?style=flat-square&logo=powershell&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/JavaScript-0a192f?style=flat-square&logo=javascript&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/TypeScript-0a192f?style=flat-square&logo=typescript&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Java-0a192f?style=flat-square&logo=openjdk&logoColor=ccd6f6" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
 **🧑‍💻 Dev / Tooling**
 
 <div align="center">
-<img src="https://img.shields.io/badge/React-0a192f?style=flat-square&logo=react&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Node.js-0a192f?style=flat-square&logo=nodedotjs&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/MongoDB-0a192f?style=flat-square&logo=mongodb&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Git-0a192f?style=flat-square&logo=git&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/GitHub-0a192f?style=flat-square&logo=github&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/VS_Code-0a192f?style=flat-square&logo=visualstudiocode&logoColor=ccd6f6" />
-<img src="https://img.shields.io/badge/Postman-0a192f?style=flat-square&logo=postman&logoColor=ccd6f6" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 <br/>
 
-> Swap or add badges by grabbing any icon slug from [simple-icons](https://simpleicons.org/) — e.g. `logo=nmap`, `logo=elastic`, `logo=metasploit` — and dropping it into the same badge URL pattern.
+## 🚀 Roadmap — Where I'm Headed Next
+
+> Skills I'm actively learning or plan to add over the next 6–12 months, especially around cloud security.
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/CrowdStrike_EDR-E01C24?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-2596CD?style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
+
+- ☁️ **Cloud security (not yet started)** — plan to begin with AWS/Azure/GCP fundamentals, IAM least-privilege, Security Hub, Defender for Cloud
+- 🧱 **Infrastructure as Code** — Terraform, container security (Docker/Kubernetes hardening)
+- 🔎 **Threat detection** — advanced KQL/SPL query writing, Sigma rules, threat hunting
+- 🤖 **SOAR / Automation** — playbook automation for SOC workflows
+- 🎯 **OSCP-track offensive skills** to sharpen blue-team detection instincts
 
 <br/>
 
@@ -124,15 +134,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=0a192f&title_color=ccd6f6&text_color=8892b0&icon_color=64ffda&hide_rank=true" width="48%" alt="stats overview"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=0a192f&title_color=ccd6f6&text_color=8892b0&langs_count=8" width="48%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6&icon_color=64ffda&hide_rank=true" width="48%" alt="stats overview"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6&langs_count=8" width="48%" alt="top languages"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
-<a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
-<a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-ccd6f6?style=flat-square&labelColor=0a192f" /></a>
+<a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
+<a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
+<a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a192f" /></a>
 </div>
