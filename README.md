@@ -1,9 +1,11 @@
 <div align="center">
 
+# Zabih Ullah
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:112240&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=ccd6f6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e6f1ff,50:cddafc,100:a8b9d9&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=0a192f&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=112240" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f2a4a,100:112240&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64ffda&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=ccd6f6" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2f,50:3d1a5c,100:6b2fa8&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=FFD166&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=f2e9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fbe9ff,50:d9b8ff,100:b088f9&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=3d1a5c&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=4a2d6e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2f,50:3d1a5c,100:6b2fa8&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=FFD166&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=f2e9ff" width="100%"/>
 </picture>
 
 <picture>
