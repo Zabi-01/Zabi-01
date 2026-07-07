@@ -1,12 +1,12 @@
 <div align="center">
 
-# Zabih Ullah
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2f,50:3d1a5c,100:6b2fa8&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=FFD166&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=f2e9ff" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fbe9ff,50:d9b8ff,100:b088f9&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=3d1a5c&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=4a2d6e" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2f,50:3d1a5c,100:6b2fa8&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=FFD166&fontAlignY=38&animation=fadeIn&desc=Defensive%20Security%20Engineer%20(SOC%20L1)%20%C2%B7%20Cloud%20Security&descAlignY=55&descSize=20&descColor=f2e9ff" width="100%"/>
 </picture>
+
+# Zabih Ullah
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
@@ -49,11 +49,9 @@
 
 ## 🧰 Current Tech Stack
 
-**🛰️ SIEM & Security Tools**
+**🛰️ Security Tools**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=64FFDA" />
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FF0000" />
@@ -89,23 +87,16 @@
 > Skills I'm actively learning or plan to add over the next 6–12 months, especially around cloud security.
 
 <div align="center">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=64FFDA" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/CrowdStrike_EDR-E01C24?style=for-the-badge&logo=crowdstrike&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-2596CD?style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
-- ☁️ **Cloud security (not yet started)** — plan to begin with AWS/Azure/GCP fundamentals, IAM least-privilege, Security Hub, Defender for Cloud
-- 🧱 **Infrastructure as Code** — Terraform, container security (Docker/Kubernetes hardening)
-- 🔎 **Threat detection** — advanced KQL/SPL query writing, Sigma rules, threat hunting
-- 🤖 **SOAR / Automation** — playbook automation for SOC workflows
-- 🎯 **OSCP-track offensive skills** to sharpen blue-team detection instincts
+- 🛰️ **SIEM depth** — hands-on Splunk and Microsoft Sentinel practice (queries, dashboards, alerting)
+- ☁️ **Cloud security (not yet started)** — plan to begin with AWS/Azure/GCP fundamentals, IAM least-privilege
+- 🔎 **Threat detection** — SPL/KQL query writing, threat hunting basics
 
 <br/>
 
