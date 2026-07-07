@@ -84,14 +84,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a0a0a0&icon_color=a0a0a0&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a1a&icon_color=1a1a1a&text_color=24292f" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=0d1117&title_color=a0a0a0&icon_color=a0a0a0&text_color=c9d1d9" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a1a&icon_color=1a1a1a&text_color=24292f" />
-</picture>
+<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/main/generated/overview.svg" width="48%" alt="stats overview"/>
+<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/main/generated/languages.svg" width="48%" alt="top languages"/>
 
 </div>
 
