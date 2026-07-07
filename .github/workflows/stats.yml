@@ -1,0 +1,16 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger README stats cache refresh
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=Zabi-01"
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact"
