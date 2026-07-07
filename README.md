@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=180&section=header&text=ZABIH%20ULLAH&fontSize=50&fontColor=e6e6e6&animation=fadeIn&fontAlignY=45" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:c9c9c9&height=180&section=header&text=ZABIH%20ULLAH&fontSize=50&fontColor=1a1a1a&animation=fadeIn&fontAlignY=45" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=180&section=header&text=ZABIH%20ULLAH&fontSize=50&fontColor=e6e6e6&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=200&section=header&text=ZABIH%20ULLAH&fontSize=55&fontColor=e6e6e6&animation=fadeIn&fontAlignY=42" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0f0f0,100:c9c9c9&height=200&section=header&text=ZABIH%20ULLAH&fontSize=55&fontColor=1a1a1a&animation=fadeIn&fontAlignY=42" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2b2b&height=200&section=header&text=ZABIH%20ULLAH&fontSize=55&fontColor=e6e6e6&animation=fadeIn&fontAlignY=42" width="100%"/>
 </picture>
 
-### Zabih Ullah — SOC Analyst (in progress) · Cloud Security
+### 🛡️ Defensive Security Engineer (SOC L1) &nbsp;·&nbsp; ☁️ Cloud Security
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;SEC1+completed;currently%3A+SOC+L1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=606060&center=true&vCenter=true&width=650&lines=BS+Cybersecurity+%40+COMSATS;SEC1+completed;currently%3A+SOC+L1;top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=700&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=606060&center=true&vCenter=true&width=700&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
 </picture>
 
 <br/>
@@ -24,19 +24,19 @@
 
 <br/>
 
-## Overview
+## 🎯 Overview
 
 - 🎓 BS Cybersecurity, COMSATS University Islamabad
-- 🎯 Building toward SOC Analyst / Cloud Security
+- 🛡️ Building toward **Defensive Security (SOC Analyst)** / **Cloud Security**
 - ✅ Completed **SEC1** (Security Engineer Level 1) on TryHackMe
 - 📡 Currently enrolled in **SOC L1** on TryHackMe
 - 🏅 Top **2%** ranked on TryHackMe
 - 🚩 CTF player — team [**th3_0B$3$$3D**](https://ctftime.org/team/411257) (CTFtime)
-- 🧩 Dev background (JS/TS, Java) — carried into RBAC/JWT/auth work
+- 🧩 Dev background (JS/TS, Java) — carried into RBAC/JWT/auth and secure architecture work
 
 <br/>
 
-## Certifications
+## 📜 Certifications
 
 | Cert | Provider | Date |
 |---|---|---|
@@ -47,9 +47,28 @@
 
 <br/>
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Languages & Scripting**
+**☁️ Cloud Platforms**
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Google_Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=e6e6e6" />
+</div>
+
+**🛰️ SIEM & Security Tools**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=flat-square&logo=wireshark&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Kali_Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/OWASP-1a1a1a?style=flat-square&logo=owasp&logoColor=e6e6e6" />
+</div>
+
+**💻 Languages & Scripting**
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
@@ -60,26 +79,7 @@
 <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=e6e6e6" />
 </div>
 
-**Cloud Platforms**
-
-<div align="center">
-<img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Google_Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=e6e6e6" />
-</div>
-
-**SIEM & Security Tools**
-
-<div align="center">
-<img src="https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=flat-square&logo=wireshark&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Kali_Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
-<img src="https://img.shields.io/badge/OWASP-1a1a1a?style=flat-square&logo=owasp&logoColor=e6e6e6" />
-</div>
-
-**Dev / Tooling**
+**🧑‍💻 Dev / Tooling**
 
 <div align="center">
 <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e6e6e6" />
@@ -97,7 +97,7 @@
 
 <br/>
 
-## Projects
+## 🚀 Projects
 
 - **[EduPortal](https://github.com/Zabi-01/EduPortal)** — Full-stack LMS, RBAC + JWT across student/instructor/admin roles
 - **[legacy-v01](https://github.com/Zabi-01/legacy-v01)** — Real-time collaborative 3D model review platform
@@ -106,7 +106,7 @@
 
 <br/>
 
-## Contribution Matrix
+## 📈 Contribution Matrix
 
 <div align="center">
 
@@ -120,7 +120,7 @@
 
 <br/>
 
-## Metrics
+## 📊 Metrics
 
 <div align="center">
 
