@@ -128,12 +128,12 @@
 
 ## 📊 Metrics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6&icon_color=64ffda&hide_rank=true" width="48%" alt="stats overview"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=0a192f&title_color=64FFDA&text_color=ccd6f6&langs_count=8" width="48%" alt="top languages"/>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Zabi-01&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zabi-01&theme=tokyo-night&hide_border=true" />
+</p>
 
 <br/>
 
