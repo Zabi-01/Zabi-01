@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
 <a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
 <a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a192f" /></a>
+<a href="https://tryhackme.com/p/ZeeHax"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=64FFDA&labelColor=0a192f" /></a>
 
 </div>
 
@@ -28,9 +29,9 @@
 
 - 🎓 BS Cybersecurity, COMSATS University Islamabad
 - 🛡️ Building toward **Defensive Security (SOC Analyst)** / **Cloud Security**
-- ✅ Completed **SEC1** (Security Engineer Level 1) on TryHackMe
-- 📡 Currently enrolled in **SOC L1** on TryHackMe
-- 🏅 Top **2%** ranked on TryHackMe
+- ✅ Completed **SEC1** (Security Engineer Level 1) on [TryHackMe](https://tryhackme.com/p/ZeeHax)
+- 📡 Currently enrolled in **SOC L1** on [TryHackMe](https://tryhackme.com/p/ZeeHax)
+- 🏅 Top **2%** ranked on [TryHackMe](https://tryhackme.com/p/ZeeHax)
 - 🚩 CTF player — team [**th3_0B$3$$3D**](https://ctftime.org/team/411257) (CTFtime)
 - 🧩 Dev background (JS/TS, Java) — carried into RBAC/JWT/auth and secure architecture work
 
@@ -55,6 +56,8 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/SIEM-1679A7?style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
 
 **💻 Languages & Scripting**
@@ -138,4 +141,5 @@
 <a href="https://www.linkedin.com/in/zabih-ullah1"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f" /></a>
 <a href="mailto:zabihullah9046@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f" /></a>
 <a href="https://ctftime.org/team/411257"><img src="https://img.shields.io/badge/CTFTIME-FF3E3E?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a192f" /></a>
+<a href="https://tryhackme.com/p/ZeeHax"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=64FFDA&labelColor=0a192f" /></a>
 </div>
