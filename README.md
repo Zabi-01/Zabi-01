@@ -64,6 +64,20 @@
 
 <br/>
 
+## Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+</div>
+
+<br/>
+
 ## Metrics
 
 <div align="center">
