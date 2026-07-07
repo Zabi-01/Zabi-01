@@ -49,11 +49,51 @@
 
 ## Tech Stack
 
+**Languages & Scripting**
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,aws,azure&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=java,ts,js,react,nodejs,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/PowerShell-1a1a1a?style=flat-square&logo=powershell&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=e6e6e6" />
 </div>
+
+**Cloud Platforms**
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Google_Cloud-1a1a1a?style=flat-square&logo=googlecloud&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=e6e6e6" />
+</div>
+
+**SIEM & Security Tools**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Splunk-1a1a1a?style=flat-square&logo=splunk&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=flat-square&logo=wireshark&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Kali_Linux-1a1a1a?style=flat-square&logo=kalilinux&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/OWASP-1a1a1a?style=flat-square&logo=owasp&logoColor=e6e6e6" />
+</div>
+
+**Dev / Tooling**
+
+<div align="center">
+<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=e6e6e6" />
+<img src="https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=e6e6e6" />
+</div>
+
+<br/>
+
+> Swap or add badges by grabbing any icon slug from [simple-icons](https://simpleicons.org/) — e.g. `logo=nmap`, `logo=elastic`, `logo=metasploit` — and dropping it into the same badge URL pattern.
 
 <br/>
 
@@ -84,8 +124,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/main/generated/overview.svg" width="48%" alt="stats overview"/>
-<img src="https://raw.githubusercontent.com/Zabi-01/Zabi-01/main/generated/languages.svg" width="48%" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zabi-01&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=a0a0a0&icon_color=606060&hide_rank=true" width="48%" alt="stats overview"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabi-01&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=a0a0a0&langs_count=8" width="48%" alt="top languages"/>
 
 </div>
 
