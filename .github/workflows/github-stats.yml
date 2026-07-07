@@ -1,0 +1,28 @@
+name: Generate Stats Images
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:       # allows manual "Run workflow" button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate images
+        uses: jstrieb/github-stats@master
+        with:
+          username: Zabi-01
+          exclude_repos: ""
+          exclude_langs: ""
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add generated/*
+          git commit -m "Update generated stats" || echo "No changes to commit"
+          git push
