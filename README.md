@@ -2,12 +2,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64FFDA&fontAlignY=45&animation=fadeIn" />
-
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:E2E8F0,100:CBD5E1&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=0F172A&fontAlignY=45&animation=fadeIn" />
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=260&section=header&text=Zabih%20Ullah&fontSize=64&fontColor=64FFDA&fontAlignY=45&animation=fadeIn" width="100%" />
 </picture>
-</div>
 
 # Zabih Ullah
 
