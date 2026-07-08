@@ -9,8 +9,8 @@
 # Zabih Ullah
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D;Part-time+vibe+coder+%F0%9F%98%8E+full-time+SOC+hopeful" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Monitoring+%2B+Detecting+%2B+Responding;Blue+Team+%7C+Cloud+Security+%7C+SIEM;BS+Cybersecurity+%40+COMSATS;SEC1+completed+%C2%B7+currently%3A+SOC+L1;Top+2%25+on+TryHackMe;CTF+player+%40+th3_0B%243%24%243D;Part-time+vibe+coder+%F0%9F%98%8E+full-time+SOC+hopeful" />
 </picture>
 
 <br/>
