@@ -30,8 +30,8 @@
 - 🎓 BS Cybersecurity, COMSATS University Islamabad
 - 🛡️ Building toward **Defensive Security (SOC Analyst)** / **Cloud Security**
 - ✅ Completed **SEC1** (Security Engineer Level 1) on [TryHackMe](https://tryhackme.com/p/ZeeHax)
-- 📡 Currently enrolled in **SOC L1** on [TryHackMe](https://tryhackme.com/p/ZeeHax)
-- 🏅 Top **2%** ranked on [TryHackMe](https://tryhackme.com/p/ZeeHax)
+- 📡 Currently Completed **SOC L1** on [TryHackMe](https://tryhackme.com/p/ZeeHax)
+- 🏅 Top **1%** ranked on [TryHackMe](https://tryhackme.com/p/ZeeHax)
 - 🚩 CTF player — team [**th3_0B$3$$3D**](https://ctftime.org/team/411257) (CTFtime)
 - 🧩 Dev background (JS/TS, Java) — carried into RBAC/JWT/auth and secure architecture work
 
@@ -43,7 +43,7 @@
 |---|---|---|
 | Google Cybersecurity Professional Certificate | Google / Coursera | Dec 2025 |
 | SEC1 — Security Engineer Level 1 | TryHackMe | Completed |
-| SOC L1 | TryHackMe | In progress |
+| SOC L1 | TryHackMe | July 2026 |
 | Cyber Security 101 | TryHackMe | Mar 2026 |
 
 <br/>
